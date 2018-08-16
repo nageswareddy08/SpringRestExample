@@ -1,0 +1,6 @@
+com\hibernate\dto\Student.class
+com\hibernate\dto\Employer.class
+com\hibernate\util\HibernateUtil.class
+com\hibernate\dto\Employee.class
+com\hibernate\dto\Address.class
+com\hibernate\ClientApplication.class

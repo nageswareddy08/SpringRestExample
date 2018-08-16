@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CoreJava/CoreJava.iml" filepath="$PROJECT_DIR$/CoreJava/CoreJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HibernateApplication/HibernateApplication.iml" filepath="$PROJECT_DIR$/HibernateApplication/HibernateApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMvcApplication/SpringMvcApplication.iml" filepath="$PROJECT_DIR$/SpringMvcApplication/SpringMvcApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringRestApplication/SpringRestApplication.iml" filepath="$PROJECT_DIR$/SpringRestApplication/SpringRestApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringRestExample.iml" filepath="$PROJECT_DIR$/SpringRestExample.iml" />
+    </modules>
+  </component>
+</project>

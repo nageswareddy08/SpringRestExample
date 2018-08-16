@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CoreJava" />
+        <module name="HibernateApplication" />
+        <module name="SpringMvcApplication" />
+        <module name="SpringRestApplication" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CoreJava" target="1.8" />
+      <module name="HibernateApplication" target="1.8" />
+      <module name="SpringMvcApplication" target="1.8" />
+      <module name="SpringRestApplication" target="1.8" />
+      <module name="SpringRestExample" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
